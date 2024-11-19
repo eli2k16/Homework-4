@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758291987998",
+    "project_id": "homework4-messageboard-app",
+    "storage_bucket": "homework4-messageboard-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758291987998:android:8d06c06bcd3cdc14c1380f",
+        "android_client_info": {
+          "package_name": "com.example.homework4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEVwIsbFauMo7jPynx6F9gAICR2DpnuAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
